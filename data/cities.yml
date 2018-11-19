@@ -1,0 +1,9 @@
+- name: Copenhagen
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+  image: copenhagen
+- name: Lisbon
+  address: "Cais do Sodré"
+  image: lisbon
+- name: Sao Paulo
+  address: "Vila Madalena"
+  image: sao-paulo
